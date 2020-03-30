@@ -1,0 +1,6 @@
+node_modules/
+.vs
+.vscode
+nohup.out
+
+yarn-error.log
